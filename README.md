@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @egatzinski
 - 👀 I’m interested in Programming and Data Science
-- 🌱 I’m currently learning Angular 
-- 📫 How to reach me: egatsinski@gmail.com
+- 🌱 I’m currently learning Machine Learning 
+- 📫 How to reach me: egatzinski@gmail.com
 
 <!---
 egatzinski/egatzinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
