@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @egatzinski
-- 👀 I’m interested in Programming and Data Science
-- 🌱 I’m currently learning Machine Learning 
+- 👀 I’m interested in Data Science and Machine Learning
 - 📫 How to reach me: egatzinski@gmail.com
 
 <!---
